@@ -105,5 +105,4 @@ Project72_XAI_IDS/
 
 ## 👩‍💻 Author
 Judy Omran
-Judy Omran
 
