@@ -66,8 +66,7 @@ jupyter notebook
 
 1. Open the notebook file (.ipynb)
 2. Upload it to Google Colab
-3. Run all cells خطوة خطوة
-
+3. Run all cells 
 ---
 
 ## 📈 Results
